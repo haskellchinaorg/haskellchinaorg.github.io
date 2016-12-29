@@ -2,28 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://qq.chinahaskell.org/</loc>
-    <lastmod>2016-12-29T16:46:04+08:00</lastmod>
+    <loc>http://qq.haskellchina.org/</loc>
+    <lastmod>2016-12-30T02:50:13+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://qq.chinahaskell.org/2016/12/29/xxxx/</loc>
-    <lastmod>2016-12-29T16:46:04+08:00</lastmod>
+    <loc>http://qq.haskellchina.org/2016/12/30/test/</loc>
+    <lastmod>2016-12-30T02:50:13+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://qq.chinahaskell.org/about/</loc>
+    <loc>http://qq.haskellchina.org/about/</loc>
     <lastmod>2016-12-29T13:50:32+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://qq.chinahaskell.org/2016/12/29/hello_papap/</loc>
-    <lastmod>2016-12-29T13:44:59+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://qq.chinahaskell.org/2016/12/29/hello/</loc>
-    <lastmod>2016-12-29T13:44:32+08:00</lastmod>
   </url>
   
 </urlset>
