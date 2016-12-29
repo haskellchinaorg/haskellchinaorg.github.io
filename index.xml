@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QQGroup Log of HaskellChina</title>
+    <link>http://qq.chinahaskell.org/index.xml</link>
+    <description>Recent content on QQGroup Log of HaskellChina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Dec 2016 16:46:04 +0800</lastBuildDate>
+    <atom:link href="http://qq.chinahaskell.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>xxxx</title>
+      <link>http://qq.chinahaskell.org/2016/12/29/xxxx/</link>
+      <pubDate>Thu, 29 Dec 2016 16:46:04 +0800</pubDate>
+      
+      <guid>http://qq.chinahaskell.org/2016/12/29/xxxx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://qq.chinahaskell.org/about/</link>
+      <pubDate>Thu, 29 Dec 2016 13:50:32 +0800</pubDate>
+      
+      <guid>http://qq.chinahaskell.org/about/</guid>
+      <description>&lt;p&gt;欢迎加入：&lt;/p&gt;
+
+&lt;p&gt;[ Haskell 函数式编程]  QQ 群: 72874436&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>hello_papap</title>
+      <link>http://qq.chinahaskell.org/2016/12/29/hello_papap/</link>
+      <pubDate>Thu, 29 Dec 2016 13:44:59 +0800</pubDate>
+      
+      <guid>http://qq.chinahaskell.org/2016/12/29/hello_papap/</guid>
+      <description>&lt;p&gt;fhdksajf
+wo cai&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>hello</title>
+      <link>http://qq.chinahaskell.org/2016/12/29/hello/</link>
+      <pubDate>Thu, 29 Dec 2016 13:44:32 +0800</pubDate>
+      
+      <guid>http://qq.chinahaskell.org/2016/12/29/hello/</guid>
+      <description>&lt;p&gt;hello world&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
